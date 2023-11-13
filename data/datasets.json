@@ -1,0 +1,20 @@
+[
+    {
+        "n_features": 10,
+        "n_samples": 1000,
+        "train_input": "./data/data_f10_s1000_train.csv",
+        "test_input": "./data/data_f10_s1000_test.csv"
+    },
+    {
+        "n_features": 10,
+        "n_samples": 10000,
+        "train_input": "./data/data_f10_s10000_train.csv",
+        "test_input": "./data/data_f10_s10000_test.csv"
+    },
+    {
+        "n_features": 10,
+        "n_samples": 100000,
+        "train_input": "./data/data_f10_s100000_train.csv",
+        "test_input": "./data/data_f10_s100000_test.csv"
+    }
+]
